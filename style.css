@@ -5,18 +5,12 @@ header{ background-color: rgb(10, 10, 10);
     align-items: center;
 
     }
-.TREINOS-TITULO{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+.imag {
+    width: 300px;
 }
-.Artofwar-titulo{
+.container {
     display: flex;
-    justify-content: space-around;
-    align-items: center;
 }
-.Artofwar-titulo-dois{
+.container2 {
     display: flex;
-    justify-content: space-around;
-    align-items: self-start;
 }
